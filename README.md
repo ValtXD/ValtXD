@@ -1,35 +1,46 @@
-<h1 align="center">🌱 Olá! Eu sou o ValtXD 🌱</h1>
+<!-- Banner Chainsaw Man com Kobeni -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1e/23/ae/1e23ae34e9c878f00d6f1a74e00f5c95.gif" alt="Kobeni Chainsaw Man" width="100%" />
+</p>
+
+<h1 align="center">👋 Olá, eu sou o ValtXD</h1>
 
 <p align="center">
-  <img src="[http://googleusercontent.com/image_generation_content/8](https://lh3.googleusercontent.com/gg-dl/AJfQ9KSGC37C42Czz6t7pL_FZxudcN4IBNpbIXXryKN7g7KstGm8T08A69xdBWAkaO1Pjwc3atJb8XmTfBJokZornFJdbaGxQdPi4xRUj-liOa8owBu37kgTjLfKZI2yI0ndCEOg2_v5-xrfKZz56Xpus-pRD6u-A7XvXI1sEiCEC9WRw2M7=s1024)" alt="Hatsune Miku Programando Wallpaper" width="600"/>
+  <img src="https://64.media.tumblr.com/1dca53d8eec7ad39585c7ebc75d8a6c6/tumblr_oq5v0yW7U51s5f2qgo1_250.gif" alt="Kobeni Animated" width="200"/>
 </p>
 
 ---
 
-### 🎤 Sobre mim:
+### 🎯 Sobre mim
 
-- 👨‍💻 Desenvolvedor Frontend & Backend  
-- 🚀 Apaixonado por tecnologia e open source  
-- 📚 Atualmente estudando: Angular | Django | Blockchain  
-
----
-
-### 🛠️ Tecnologias:
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 👨‍💻 Desenvolvedor Fullstack com uma pitada de loucura de Chainsaw Man  
+- ⚔️ Inspirado na coragem e determinação da Kobeni  
+- 🚀 Focado em React, Node.js, Django e Blockchain  
+- 📚 Aprendendo sempre, mesmo quando tudo parece caótico
 
 ---
 
-### 📈 Stats:
+### 🛠️ Tecnologias
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValtXD&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
-### 🌎 Contato:
+### 📈 Meus stats no GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ValtXD&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### ⚔️ Kobeni Mode Ativado ⚔️
+
+```bash
+echo "Mesmo nas situações mais loucas, continuo codando com força!"

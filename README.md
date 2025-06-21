@@ -1,12 +1,14 @@
-<!-- Banner Miku -->
+<!-- Banner animado da Miku -->
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp7150390.jpg" alt="Hatsune Miku Banner" width="100%">
+  <img src="https://media.tenor.com/ND3GJqFrXigAAAAd/hatsune-miku.gif" alt="Hatsune Miku Banner" width="100%">
 </p>
 
 <h1 align="center">🌸 Olá! Eu sou o ValtXD! 🌸</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/UcQgq5x_oLQAAAAd/hatsune-miku-vocaloid.gif" alt="Hatsune Miku Dancing" width="250">
+  <img src="https://media.tenor.com/KCS7yD0EvK8AAAAC/miku-dance.gif" alt="Miku Dance" width="200"/>
+  <img src="https://media.tenor.com/CxG0Od7KzAwAAAAC/miku-hatsune.gif" alt="Miku GIF" width="200"/>
+  <img src="https://media.tenor.com/Zgl3yL7ayFIAAAAd/miku.gif" alt="Miku GIF" width="200"/>
 </p>
 
 ---
@@ -15,7 +17,7 @@
 
 - 👨‍💻 Desenvolvedor Fullstack
 - 🎶 Fã da Hatsune Miku e cultura Vocaloid 💙
-- 🚀 Focado em projetos com **React**, **Node.js**, **Django**, **Blockchain**
+- 🚀 Focado em React | Node.js | Django | Blockchain
 - 📚 Sempre aprendendo coisas novas
 
 ---
@@ -32,19 +34,19 @@
 
 ---
 
-### 📈 Minhas Stats no GitHub:
+### 📈 Meus Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValtXD&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ValtXD&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValtXD&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValtXD&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🎶 Miku Mode ativado:
+### 🎶 Miku Mode Ativado 🎶
 
 ```bash
-echo "Keep coding with Miku Energy 🎶💙"
+echo "Codando com energia da Miku 🎶💙"

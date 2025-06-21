@@ -1,7 +1,7 @@
 <h1 align="center">🌱 Olá! Eu sou o ValtXD 🌱</h1>
 
 <p align="center">
-  <img src="[https://media.tenor.com/mTjZpMIjz8MAAAAi/hatsune-miku-chibi.gif](https://tenor.com/pt-BR/view/hatsune-miku-bluescreen-vocaloid-gif-27586035)" alt="Hatsune Miku Dancing" width="150"/>
+  <img src="https://i.pinimg.com/originals/10/7c/49/107c49129532822a9442a4872c6e612f.gif" alt="Hatsune Miku Chibi Animada" width="150"/>
 </p>
 
 ---

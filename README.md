@@ -1,21 +1,31 @@
-# Olá, sou o Francisco 👋
+<h1 align="center">🌸 Olá! Eu sou o ValtXD! 🌸</h1>
 
-👨‍💻 Desenvolvedor Frontend & Backend  
-🚀 Apaixonado por tecnologia e open source  
-📚 Atualmente estudando: Angular | Django | Blockchain  
+<p align="center">
+  <img src="https://media.tenor.com/b3v7Zn2c4nYAAAAC/hatsune-miku.gif" alt="Hatsune Miku" width="300"/>
+</p>
 
-### 🛠️ Tecnologias:
+---
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+🎤 **Sobre mim:**
 
-### 📈 Stats:
+- 🖥️ Desenvolvedor Fullstack
+- 🎶 Fã da Hatsune Miku e música vocaloid 💙
+- 💡 Sempre aprendendo novas tecnologias
+- 🚀 Atualmente focado em: React | Node.js | Django | Blockchain
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValtXD&show_icons=true&theme=radical)
+---
 
-### 🌎 Contato:
+### 💻 Tecnologias que uso:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+
+---
+
+### 🎵 Miku Mode:  
+
+```bash
+echo "Never stop coding with Miku energy 🎶💙"

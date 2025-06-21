@@ -1,12 +1,12 @@
 <!-- Banner Chainsaw Man com Kobeni -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1e/23/ae/1e23ae34e9c878f00d6f1a74e00f5c95.gif" alt="Kobeni Chainsaw Man" width="100%" />
+  <img src="https://i.imgur.com/kBTgvq9.gif" alt="Kobeni Chainsaw Man Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá, eu sou o ValtXD</h1>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/1dca53d8eec7ad39585c7ebc75d8a6c6/tumblr_oq5v0yW7U51s5f2qgo1_250.gif" alt="Kobeni Animated" width="200"/>
+  <img src="https://64.media.tumblr.com/0a72e34485d1953e2e409f3459373b27/tumblr_p38fjr4mlF1v6n70oo1_400.gif" alt="Kobeni Animated" width="200"/>
 </p>
 
 ---
@@ -42,5 +42,10 @@
 
 ### ⚔️ Kobeni Mode Ativado ⚔️
 
-```bash
+
 echo "Mesmo nas situações mais loucas, continuo codando com força!"
+<p align="center"> <img src="https://i.imgur.com/MeV0ruH.gif" alt="Chainsaw Man Kobeni GIF" width="250" /> </p>
+📫 Contato
+<p align="center"> <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:seuemail@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"> 👹 Obrigado pela visita! Continue cortando os problemas com a força da Kobeni! 👹 </p> 
+```bash

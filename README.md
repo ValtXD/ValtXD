@@ -1,52 +1,37 @@
-<!-- Banner animado da Miku -->
-<p align="center">
-  <img src="https://media.tenor.com/ND3GJqFrXigAAAAd/hatsune-miku.gif" alt="Hatsune Miku Banner" width="100%">
-</p>
-
-<h1 align="center">🌸 Olá! Eu sou o ValtXD! 🌸</h1>
+<h1 align="center">🌱 Olá! Eu sou o ValtXD 🌱</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/KCS7yD0EvK8AAAAC/miku-dance.gif" alt="Miku Dance" width="200"/>
-  <img src="https://media.tenor.com/CxG0Od7KzAwAAAAC/miku-hatsune.gif" alt="Miku GIF" width="200"/>
-  <img src="https://media.tenor.com/Zgl3yL7ayFIAAAAd/miku.gif" alt="Miku GIF" width="200"/>
+  <img src="https://media.tenor.com/mTjZpMIjz8MAAAAi/hatsune-miku-chibi.gif" alt="Mini Miku Dancing" width="150"/>
 </p>
 
 ---
 
 ### 🎤 Sobre mim:
 
-- 👨‍💻 Desenvolvedor Fullstack
-- 🎶 Fã da Hatsune Miku e cultura Vocaloid 💙
-- 🚀 Focado em React | Node.js | Django | Blockchain
-- 📚 Sempre aprendendo coisas novas
+- 👨‍💻 Desenvolvedor apaixonado por tecnologia
+- 🎶 Fã da Hatsune Miku 💙
+- 🚀 Trabalhando com: React | Node.js | Django | Blockchain
+- 💡 Sempre aprendendo coisas novas
 
 ---
 
-### 💻 Tecnologias que uso:
+### 🛠️ Tecnologias:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-### 📈 Meus Stats:
+### 📈 Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ValtXD&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValtXD&layout=compact&theme=tokyonight" />
-</p>
+![ValtXD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValtXD&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🎶 Miku Mode Ativado 🎶
+### 🎶 Mensagem Miku Style:
 
 ```bash
-echo "Codando com energia da Miku 🎶💙"
+echo "Keep coding with Miku power! 🎶💙"

@@ -1,7 +1,7 @@
 <h1 align="center">🌱 Olá! Eu sou o ValtXD 🌱</h1>
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/8" alt="Hatsune Miku Programando Wallpaper" width="600"/>
+  <img src="[http://googleusercontent.com/image_generation_content/8](https://lh3.googleusercontent.com/gg-dl/AJfQ9KSGC37C42Czz6t7pL_FZxudcN4IBNpbIXXryKN7g7KstGm8T08A69xdBWAkaO1Pjwc3atJb8XmTfBJokZornFJdbaGxQdPi4xRUj-liOa8owBu37kgTjLfKZI2yI0ndCEOg2_v5-xrfKZz56Xpus-pRD6u-A7XvXI1sEiCEC9WRw2M7=s1024)" alt="Hatsune Miku Programando Wallpaper" width="600"/>
 </p>
 
 ---

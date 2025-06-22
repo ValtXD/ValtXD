@@ -3,6 +3,7 @@
 👨‍💻 Desenvolvedor Frontend & Backend  
 🚀 Apaixonado por tecnologia e open source  
 ✍ Estudante da UFAM (Universidade Federal do Amazonas)
+
 📚 Atualmente estudando: Angular | Django | Blockchain | Python | Android | Kotlin | Dart | TypeScript
 
 ### 🛠️ Tecnologias:

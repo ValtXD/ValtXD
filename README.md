@@ -2,6 +2,8 @@
 
 👨‍💻 Desenvolvedor Frontend & Backend  
 
+👾 Entusiata em desenvolvimentos de jogos eletrônicos e Web.
+
 🚀 Apaixonado por tecnologia e open source  
 
 ✍ Estudante da UFAM (Universidade Federal do Amazonas)
